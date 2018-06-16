@@ -7,7 +7,7 @@
   <property name="src.home"      value="${basedir}/src"/>
   <property name="web.home"      value="${basedir}/web"/>
 
-  <!-- Some Comment -->
+  <!--- Some Comment --->
 
   <target name="help">
     <echo>You can use the following targets:</echo>
