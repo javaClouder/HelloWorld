@@ -1,5 +1,5 @@
 <project name="My Project" default="help" basedir=".">
-  <!-- Define the properties used by the build -->
+  <!-- Defining the properties used by the build -->
   <property name="app.name"      value="hello"/>
   <property name="tcserver.home" value="${basedir}" />
   <property name="work.home"    value="${basedir}/work"/>
